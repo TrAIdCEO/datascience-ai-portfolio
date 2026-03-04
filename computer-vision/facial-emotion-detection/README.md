@@ -6,17 +6,12 @@
 
 This project develops a high-accuracy Computer Vision pipeline to classify human facial expressions into four categories: **Happy, Neutral, Sad, and Surprise**. By identifying uniquely identifiable features—like the upward angle of a mouth or the width of the eyes—this model serves as a building block for applications in healthcare, market research, and human safety.
 
----
+### **🛠️ Files**
 
-## **🛠️ Tech Stack**
-
-| Category | Tools & Libraries |
+| File | Description |
 | --- | --- |
-| **Environment** | Jupyter Notebook, Conda (Local Runtime), Google Colab |
-| **Deep Learning** | TensorFlow, Keras (Sequential API) |
-| **Computer Vision** | OpenCV (logic), ImageDataGenerator (Augmentation) |
-| **Data Science** | NumPy, Pandas, Scikit-learn |
-| **Visualization** | Matplotlib, Seaborn |
+| [**Facial_Emotion_Detection_Full_Code.html**](https://htmlpreview.github.io/?https://github.com/TrAIdCEO/datascience-ai-portfolio/blob/main/computer-vision/facial-emotion-detection/Facial_Emotion_Detection_Full_Code.html) | HTML export of Full Jupyter Notebook, outputs included |
+| [**Facial_Emotion_Detection_Full_Code.ipynb**](./Facial_Emotion_Detection_Full_Code.ipynb) | Code only Jupyter Notebook (outputs cleared) |
 
 ---
 
