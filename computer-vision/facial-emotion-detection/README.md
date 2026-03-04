@@ -70,10 +70,11 @@ The decision to prioritize Custom CNNs over Transfer Learning (like VGG16 or Res
     pip install tensorflow pandas matplotlib scikit-learn seaborn
     ```
 *  **Data Loading:**
-    * Ensure the `Facial_emotion_images.zip` is in your project directory and edit the file reference in the notebook to match it's location.
+    * [Download the dataset from Kaggle](https://www.kaggle.com/datasets/msambare/fer2013) and place in a zip folder named `Facial_emotion_images.zip`
+    * Ensure the `Facial_emotion_images.zip` is in your project directory and edit the file reference in `Facial_Emotion_Detection_Full_Code.ipynb` to match it's location.
     * Run the notebook cells to extract and preprocess the image generators.
 *  **Training:**
     * Open `Facial_Emotion_Detection_Full_Code.ipynb` in Jupyter or Google Colab.
-    * Execute all cells, see **Building a Complex Neural Network Architecture** for training of the final model.
+    * Execute all cells, see section **'Building a Complex Neural Network Architecture'** for training of the final model.
 
 ---
